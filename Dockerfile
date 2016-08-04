@@ -1,1 +1,1 @@
-FROM appdemo/meteord:onbuild
+FROM appdemo:onbuild
