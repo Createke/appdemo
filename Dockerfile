@@ -1,1 +1,1 @@
-FROM Createke/meteord:onbuild
+FROM meteord
