@@ -1,1 +1,1 @@
-FROM appdemo/meteord
+FROM console/meteord:onbuild
