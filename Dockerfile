@@ -1,1 +1,1 @@
-FROM meteord
+FROM appdemo/meteord
